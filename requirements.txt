@@ -1,4 +1,7 @@
+click
 git+https://github.com/turicas/rows.git@develop#egg=rows
 leveldb
 lxml
+requests
+requests-cache
 scrapy
